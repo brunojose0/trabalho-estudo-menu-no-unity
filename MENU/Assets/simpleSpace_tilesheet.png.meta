@@ -761,7 +761,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: simpleSpace_tilesheet_31
+      name: bullet
       rect:
         serializedVersion: 2
         x: 448
@@ -1134,6 +1134,7 @@ TextureImporter:
       asteroid_3: 626412088
       asteroid_4: 237714384
       asteroid_5: 22271752
+      bullet: -1414058022
       player: 1507815257
       simpleSpace_tilesheet_0: 2143819296
       simpleSpace_tilesheet_1: -1728098305
@@ -1157,7 +1158,6 @@ TextureImporter:
       simpleSpace_tilesheet_29: 492208997
       simpleSpace_tilesheet_3: 1726835350
       simpleSpace_tilesheet_30: 2052586876
-      simpleSpace_tilesheet_31: -1414058022
       simpleSpace_tilesheet_36: -1380042710
       simpleSpace_tilesheet_37: 1114380861
       simpleSpace_tilesheet_38: 551070692
